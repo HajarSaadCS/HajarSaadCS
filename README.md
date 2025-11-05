@@ -1,9 +1,11 @@
-I'm Hajar Alshamrani👋🏻
+Welcome to my GitHub profile👋🏻
 
-- 🧠 AI Researcher  
-- 🤖 Focused on Deep Learning  
-- 📚 Interested in RAG Systems and AI Applications  
-- 📬 Contact me: hajaralshamrani04@gmail.com
+I'm Hajar Alshamrani
+
+ 🧠 AI Researcher  
+🤖 Focused on Deep Learning  
+📚 Interested in RAG Systems and AI Applications  
+📬 Contact me: hajaralshamrani04@gmail.com
 
 <!--
 **HajarSaadCS/HajarSaadCS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
