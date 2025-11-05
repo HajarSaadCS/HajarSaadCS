@@ -3,7 +3,7 @@ I'm Hajar Alshamrani👋
 - 🧠 AI Researcher  
 - 🤖 Focused on Deep Learning  
 - 📚 Interested in RAG Systems and AI Applications  
-- 📬 Contact me: Hajarsaadalshamrani@gmail.com
+- 📬 Contact me: hajaralshamrani04@gmail.com
 
 <!--
 **HajarSaadCS/HajarSaadCS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
