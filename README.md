@@ -1,4 +1,4 @@
-I'm Hajar Alshamrani👋 
+I'm Hajar Alshamrani👋🏻
 
 - 🧠 AI Researcher  
 - 🤖 Focused on Deep Learning  
